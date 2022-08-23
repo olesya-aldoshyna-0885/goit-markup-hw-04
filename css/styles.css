@@ -507,6 +507,7 @@ align-items: center;
     fill: var(--last-color);
     background: rgba(255, 255, 255, 0.1);
 }
+
 .soc-list-footer .soc-link:hover,
 .soc-list-footer .soc-link:focus {
 fill: var(--last-color);
